@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://dhimmel.github.io/rootstock-branchless-setup/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://dhimmel.github.io/rootstock-branchless-setup/v/1c97df1767ba19af83996f63a5663d5b403e6811/" />
+  <link rel="alternate" type="text/html" href="https://dhimmel.github.io/rootstock-branchless-setup/v/a49d127d0d6a252918191329bb3795475bd4c2c1/" />
 
-  <meta name="manubot_html_url_versioned" content="https://dhimmel.github.io/rootstock-branchless-setup/v/1c97df1767ba19af83996f63a5663d5b403e6811/" />
+  <meta name="manubot_html_url_versioned" content="https://dhimmel.github.io/rootstock-branchless-setup/v/a49d127d0d6a252918191329bb3795475bd4c2c1/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://dhimmel.github.io/rootstock-branchless-setup/v/1c97df1767ba19af83996f63a5663d5b403e6811/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://dhimmel.github.io/rootstock-branchless-setup/v/a49d127d0d6a252918191329bb3795475bd4c2c1/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/rootstock-branchless-setup/v/1c97df1767ba19af83996f63a5663d5b403e6811/))
+([permalink](https://dhimmel.github.io/rootstock-branchless-setup/v/a49d127d0d6a252918191329bb3795475bd4c2c1/))
 was automatically generated
-from [dhimmel/rootstock-branchless-setup@1c97df1](https://github.com/dhimmel/rootstock-branchless-setup/tree/1c97df1767ba19af83996f63a5663d5b403e6811)
+from [dhimmel/rootstock-branchless-setup@a49d127](https://github.com/dhimmel/rootstock-branchless-setup/tree/a49d127d0d6a252918191329bb3795475bd4c2c1)
 on February 18, 2020.
 </em></small>
 
